@@ -1,12 +1,16 @@
 <div align="center">
 
-# 👋 Hi, I'm Amira Mohamed
+# Amira Mohamed Ali Abdelhamid
 
-### 📊 Data Analyst
+### Data Analyst 📊 | Egypt 🇪🇬
 
-Turning Data Into Meaningful Insights
+### <span style="color:#F2B900">Data Analysis | Business Intelligence | Dashboard Development</span>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Amira%20Mohamed-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/amira-mohamed05)
+<br>
+
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amira-mohamed05)
+[![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Amia-Mohamed05)
+[![Gmail](https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amira.mohamedali08@gmail.com)
 
 </div>
 
@@ -14,72 +18,108 @@ Turning Data Into Meaningful Insights
 
 ## 👩‍💻 About Me
 
-I'm a Data Analyst passionate about transforming raw data
-into meaningful insights and data-driven decisions.
+I'm a **Data Analyst** passionate about transforming raw data into meaningful insights that support better business decisions.
 
-I work with:
+I work with data analysis, visualization, and dashboard development using **Excel, Power BI, SQL, Python, and Tableau**.
 
--  Python
--  SQL
--  Excel
--  Power BI
--  Tableau
+I enjoy exploring datasets, identifying trends, creating meaningful KPIs, and presenting insights through clear and interactive dashboards.
 
 ---
 
 ## 🛠️ Skills & Tools
 
-<div align="center">
+### 📊 Data Analysis
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+
+### 🗄️ Database
+
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+
+### 📈 Visualization & BI
+
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 
-</div>
+### 📑 Spreadsheet
+
+![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 
 ---
 
-## 📊 Projects
+## 📂 Featured Projects
 
-### 🛒 Sales Analysis
-Data analysis project using Python and Excel to discover sales trends and business insights.
+### 📊 Sales Analysis
 
-### 📈 Power BI Dashboard
-Interactive dashboard for analyzing KPIs, sales performance, and business trends.
+Sales data analysis focused on identifying business trends, KPIs, customer behavior, and sales performance.
 
-### 🗄️ SQL Data Analysis
-SQL project focused on querying, cleaning, and analyzing relational data.
+**Tools:** Excel • SQL • Python • Power BI • Tableau
+
+🔗 **[View Project](#)**
+
+---
+
+### 📈 Data Visualization Dashboard
+
+Interactive dashboard designed to transform raw data into clear and actionable business insights.
+
+**Tools:** Power BI • Tableau
+
+🔗 **[View Project](#)**
+
+---
+
+###  Python Data Analysis
+
+Exploratory data analysis using Python to clean, analyze, visualize, and extract insights from datasets.
+
+**Tools:** Python • Pandas • NumPy • Matplotlib • Seaborn
+
+🔗 **[View Project](#)**
 
 ---
 
 ## 🎓 Education
 
-**Your University**  
-Your Degree
+**Your University Name**
+
+Bachelor's Degree in **Your Major**
 
 ---
 
 ## 📜 Certifications
 
-- Data Analysis Certification
-- SQL Certification
-- Power BI Certification
+- Data Analysis
+- SQL
+- Power BI
+- Python
+
+> Replace the certificates above with your actual certifications.
 
 ---
 
-## 📫 Contact Me
+## 🌍 Languages
 
-📧 **amira.mohamedali08@gmail.com**
+- 🇪🇬 **Arabic** — Native
+- 🇬🇧 **English** — Your Level
+
+---
+
+## 📫 Contact
 
 📍 **Tanta, Egypt**
 
-💼 [LinkedIn](https://www.linkedin.com/in/amira-mohamed05)
+📧 **amira.mohamedali08@gmail.com**
+
+💼 **[LinkedIn](https://www.linkedin.com/in/amira-mohamed05)**
 
 ---
 
-<div align="center">
+
+
+
 
 ### 💡 Data → Insights → Decisions 📊
 
