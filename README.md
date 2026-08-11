@@ -1,6 +1,6 @@
 <div align="center">
 
-# Amira Mohammed 👋
+# Amira Mohammed 
 
 ### Data Analyst
 
@@ -21,7 +21,7 @@ I use Power BI, SQL, Python, Excel, and Tableau to explore data, build interacti
 Currently focused on strengthening my skills in Data Analytics, Business Intelligence, and Data Storytelling through hands-on projects.
 ---
 
-## 🛠️ Skills & Tools
+##  Skills & Tools
 
 <p align="left">
 
