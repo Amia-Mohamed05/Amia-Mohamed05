@@ -1,6 +1,39 @@
 <div align="center">
 <div align="center">
+Amira Mohammed
 
+🎯 *Focusing*
+
+### Data Analyst | Power BI • SQL • Python • Excel • Tableau
+
+📊 Building dashboards & turning data into decisions.
+
+---
+
+ Tech Stack
+
+Power BI • SQL • Python • Excel • Tableau
+
+---
+
+### 📂 Projects
+
+- 📊 Sales Analysis Dashboard
+- 📉 Customer Churn Analysis
+- 🚚 Shipping Analysis Dashboard
+- 📈 Business Performance Dashboard
+
+---
+
+### 📫 Contact
+
+💼 LinkedIn: [My LinkedIn](YOUR_LINKEDIN_LINK)
+
+📧 Email: YOUR_EMAIL
+
+---
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark)
 # Amira Mohamed Ali 
 
 ### Data Analyst 📊 
@@ -15,21 +48,3 @@
 
 ---
 
-## 👩‍💻 About Me
-
-I'm a **Data Analyst** interested in uncovering valuable insights from data and turning numbers into clear, meaningful stories.
-
-I work with **Excel, Power BI, SQL, Python, and Tableau** to explore datasets, clean and analyze data, build visualizations, and develop interactive dashboards.
-
-🧭 Exploring datasets and discovering patterns  
-🧹 Cleaning and preparing data for analysis  
-📏 Building KPIs and measuring performance  
-🎨 Creating clear and engaging data visualizations  
-🗄️ Working with SQL for data querying and analysis  
-⚙️ Using Python to explore and analyze data  
-💡 Turning findings into actionable insights  
-🌱 Continuously developing my analytical skills  
-📮 **amira.mohamedali08@gmail.com**
-
-
-</div>
