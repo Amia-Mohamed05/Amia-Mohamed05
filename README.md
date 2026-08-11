@@ -1,6 +1,13 @@
 <div align="center">
+<div align="center">
 
+# Amira Mohamed Ali 
 
+### Data Analyst 📊 =
+
+### Explore Data | Find Insights | Tell the Story
+
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amira-mohamed05)
 [![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Amia-Mohamed05)
 [![Gmail](https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amira.mohamedali08@gmail.com)
 
