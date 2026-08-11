@@ -12,15 +12,13 @@ Turning data into insights, dashboards, and better decisions.
 
 ---
 
-## 👩‍💻 About Me
+🎯 Focusing
 
-I’m a Data Analyst passionate about exploring data, identifying meaningful
-insights, and building interactive dashboards that help transform data
-into clear business decisions.
+Data Analyst passionate about turning raw data into clear insights and impactful decisions.
 
-I enjoy working with data from the cleaning and preparation stage
-through analysis, visualization, and storytelling.
+I use Power BI, SQL, Python, Excel, and Tableau to explore data, build interactive dashboards, uncover trends, and communicate insights through effective data visualization.
 
+Currently focused on strengthening my skills in Data Analytics, Business Intelligence, and Data Storytelling through hands-on projects.
 ---
 
 ## 🛠️ Skills & Tools
