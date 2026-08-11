@@ -1,14 +1,6 @@
 <div align="center">
 
-# Amira Mohamed Ali Abdelhamid
 
-### Data Analyst 📊 | Egypt 🇪🇬
-
-### <span style="color:#F2B900">Data Analysis | Business Intelligence | Dashboard Development</span>
-
-<br>
-
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amira-mohamed05)
 [![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Amia-Mohamed05)
 [![Gmail](https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amira.mohamedali08@gmail.com)
 
@@ -18,15 +10,19 @@
 
 ## 👩‍💻 About Me
 
-I'm a **Data Analyst** passionate about transforming raw data into meaningful insights that support better business decisions.
+I'm a **Data Analyst** interested in uncovering valuable insights from data and turning numbers into clear, meaningful stories.
 
-I work with data analysis, visualization, and dashboard development using **Excel, Power BI, SQL, Python, and Tableau**.
+I work with **Excel, Power BI, SQL, Python, and Tableau** to explore datasets, clean and analyze data, build visualizations, and develop interactive dashboards.
 
-I enjoy exploring datasets, identifying trends, creating meaningful KPIs, and presenting insights through clear and interactive dashboards.
+ Exploring data to discover trends, patterns, and performance indicators  
+ Creating interactive dashboards and visual reports using Power BI, Excel & Tableau  
+ Using SQL to query, organize, and analyze data  
+ Applying Python for data cleaning, analysis, and visualization  
+ Turning complex datasets into simple and actionable insights  
+ Interested in Business Intelligence and data-driven decision making  
+ Always learning and improving my analytical and technical skills  
+ Contact me at **amira.mohamedali08@gmail.com**
 
----
-
-## 🛠️ Skills & Tools
 
 ### 📊 Data Analysis
 
