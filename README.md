@@ -47,70 +47,7 @@ Currently focused on strengthening my skills in Data Analytics, Business Intelli
 
 # 📂 Featured Projects
 
-## 🏨 Hotel Booking Analysis
 
-*Excel | Data Analysis | Data Visualization*
-
-Analysis of hotel booking data to understand booking patterns,
-cancellations, customer behavior, and key business insights.
-
-*Tools:* Excel • Pivot Tables • Charts • Data Analysis
-
-🔗 [View Project](PROJECT_LINK)
-
----
-
-## 📊 Sales Analysis
-
-*Power BI | DAX | Data Visualization*
-
-Interactive dashboard designed to analyze sales performance,
-products, regions, and key business KPIs.
-
-*Tools:* Power BI • DAX • Power Query
-
-🔗 [View Project](PROJECT_LINK)
-
----
-
-## 📉 Customer Churn Analysis
-
-*Power BI | DAX | Customer Analytics*
-
-Analysis of customer churn behavior to identify customers at risk
-and understand the factors affecting customer retention.
-
-*Tools:* Power BI • DAX • Data Visualization
-
-🔗 [View Project](PROJECT_LINK)
-
----
-
-## ❤️ Health Tracking
-
-*Power BI | Data Analysis | Dashboard*
-
-Interactive dashboard for analyzing health-related data and tracking
-important indicators and trends.
-
-*Tools:* Power BI • DAX • Data Visualization
-
-🔗 [View Project](PROJECT_LINK)
-
----
-
-## 💉 Vaccination Analysis
-
-*Power BI | Data Analysis | Data Visualization*
-
-Analysis of vaccination data to identify trends, distributions,
-and key insights across different categories.
-
-*Tools:* Power BI • DAX • Data Visualization
-
-🔗 [View Project](PROJECT_LINK)
-
----
 
 # 🎯 What I Do
 
