@@ -53,7 +53,7 @@ cancellations, customer behavior, and key business insights.
 
 Tools: Excel • Pivot Tables • Charts • Data Analysis
 
-🔗 [View Project](Hotel Booking)((https://github.com/Amia-Mohamed05/Hotel-Booking-Analysis) 
+🔗 [View Project](https://github.com/Amia-Mohamed05/Hotel-Booking-Analysis) 
 # 🎯 What I Do
 
 | Area | Skills |
