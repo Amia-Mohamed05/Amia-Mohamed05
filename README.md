@@ -46,8 +46,15 @@ Currently focused on strengthening my skills in Data Analytics, Business Intelli
 ---
 
 # 📂 Featured Projects
+Excel | Data Analysis | Data Visualization
 
+Analysis of hotel booking data to understand booking patterns,
+cancellations, customer behavior, and key business insights.
 
+Tools: Excel • Pivot Tables • Charts • Data Analysis
+
+🔗 [View Project]([PROJECT_LINK](https://github.com/Amia-Mohamed05/Hotel-Booking-Analysis
+))
 
 # 🎯 What I Do
 
