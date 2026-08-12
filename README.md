@@ -50,10 +50,20 @@ Excel | Data Analysis | Data Visualization
 
 Analysis of hotel booking data to understand booking patterns,
 cancellations, customer behavior, and key business insights.
-
 Tools: Excel • Pivot Tables • Charts • Data Analysis
 
 🔗 [View Project](https://github.com/Amia-Mohamed05/Hotel-Booking-Analysis) 
+
+ 📊 Sales Analysis
+
+Power BI | DAX | Data Visualization
+
+Interactive dashboard designed to analyze sales performance,
+products, regions, and key business KPIs.
+Tools: Power BI • DAX • Power Query
+
+🔗 [View Project](PROJECT_LINK)
+
 # 🎯 What I Do
 
 | Area | Skills |
