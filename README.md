@@ -59,10 +59,10 @@ Tools: Excel • Pivot Tables • Charts • Data Analysis
 Power BI | DAX | Data Visualization
 
 Interactive dashboard designed to analyze sales performance,
-products, regions, and key business KPIs.
+products, regions, Shipping and key business KPIs.
 Tools: Power BI • DAX • Power Query
 
-🔗 [View Project](PROJECT_LINK)
+🔗 [View Project](https://github.com/Amia-Mohamed05/Sales-Analysis.git)
 
 # 🎯 What I Do
 
