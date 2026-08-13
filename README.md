@@ -5,12 +5,8 @@
 <h2 align="center">📊 Data Analyst</h2>
 
 <p align="center">
-  Transforming Data into Insights for Better Decisions
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FF0000&center=true&vCenter=true&width=800&lines=Transforming+Data+into+Insights+for+Better+Decisions" />
 </p>
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Turning+Data+into+Meaningful+Insights;Building+Interactive+Dashboards;Excel+%7C+Power+BI+%7C+SQL+%7C+Tableau+%7C+Python;Exploring+Data+and+Finding+Hidden+Insights" />
-</p>
----
 
 🎯 Focusing
 
