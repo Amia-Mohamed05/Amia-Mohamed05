@@ -1,8 +1,8 @@
 <div align="center">
 
-<h1 align="center">  Amira Mohamed</h1>
+<h1 align="center">  Amira Mohamed Ali </h1>
 
-<h2 align="center">📊 Data Analyst</h2>
+<h2 align="center">📊| Data Analyst |Transforming Data into Insights for Better Decisions</h2>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Turning+Data+into+Meaningful+Insights;Building+Interactive+Dashboards;Excel+%7C+Power+BI+%7C+SQL+%7C+Tableau+%7C+Python;Exploring+Data+and+Finding+Hidden+Insights" />
