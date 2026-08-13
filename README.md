@@ -44,6 +44,7 @@ cancellations, customer behavior, and key business insights.
 Tools: Excel • Pivot Tables • Charts • Data Analysis
 
 🔗 [Hotel Booking -Excel](https://github.com/Amia-Mohamed05/Hotel-Booking-Analysis) 
+
 ---
  📊 Sales Analysis
 
@@ -58,9 +59,11 @@ Tools: Power BI • DAX • Power Query
 
 ---
 📊 Customer Churn Analysis
+
 Power BI | DAX | Data Visualization
-Interactive dashboard designed to analyze customer churn behavior, contract types, payment methods, and service usage to identify key drivers of customer attrition.
-Tools: Power BI • DAX • Power Query
+
+Interactive dashboard designed to analyze customer churn behavior, contract types, payment methods, and service usage to identify key drivers of customer attrition. Tools: Power BI • DAX • Power Query
+
 🔗 [ Customer CHURN Dashboard -power BI](https://github.com/Amia-Mohamed05/Customer-Churn)
 
 ---
