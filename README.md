@@ -60,7 +60,7 @@ Tools: Power BI • DAX • Power Query
 Power BI | DAX | Data Visualization
 Interactive dashboard designed to analyze customer churn behavior, contract types, payment methods, and service usage to identify key drivers of customer attrition.
 Tools: Power BI • DAX • Power Query
-🔗 [ Customer CHURN Dashboard](https://github.com/Amia-Mohamed05/Customer-Churn)
+🔗 [ Customer CHURN Dashboard -power BI](https://github.com/Amia-Mohamed05/Customer-Churn)
 
 ---
 ## 🛠️ Skills
