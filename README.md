@@ -1,4 +1,3 @@
-<div align="center">
 
 <h1 align="center">  Amira Mohamed Ali </h1>
 
