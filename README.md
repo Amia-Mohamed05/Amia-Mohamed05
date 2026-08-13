@@ -1,7 +1,7 @@
 
 <h1 align="center">  Amira Mohamed Ali </h1>
 
-<h2 align="center">📊|Data Analyst</h2>
+<h2📊|Data Analyst</h2>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FF0000&center=true&vCenter=true&width=800&lines=Transforming+Data+into+Insights+for+Better+Decisions" />
@@ -58,7 +58,6 @@ Tools: Power BI • DAX • Power Query
 🔗 [Sales Analysis-Power BI](https://github.com/Amia-Mohamed05/Sales-Analysis.git)
 
 
-
  📚Skills 
 | - Data Analysis | Excel • SQL • Python |
 | - Visualization | Power BI • Tableau |
@@ -67,20 +66,15 @@ Tools: Power BI • DAX • Power Query
 | - Reporting | Interactive Dashboards & Reports |
 
 ---
-
-Connect With Me
-
+Contact me:
 <a href="https://github.com/Amia-Mohamed05">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-
 <a href="https://www.linkedin.com/in/amira-mohamed-726370321/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-
 <a href="mailto:amira.mohamedali08@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 ### Thanks for visiting my profile! ⭐
-
 </div>
