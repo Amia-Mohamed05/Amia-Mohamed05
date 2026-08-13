@@ -11,6 +11,7 @@
 Data Analyst passionate about turning raw data into clear insights and impactful decisions.
 I use Power BI, SQL, Python, Excel, and Tableau to explore data, build interactive dashboards, uncover trends, and communicate insights through effective data visualization.
 Currently focused on strengthening my skills in Data Analytics, Business Intelligence, and Data Storytelling through hands-on projects.
+
 ---
 
 ##  Skills & Tools
@@ -65,6 +66,15 @@ Power BI | DAX | Data Visualization
 Interactive dashboard designed to analyze customer churn behavior, contract types, payment methods, and service usage to identify key drivers of customer attrition. Tools: Power BI • DAX • Power Query
 
 🔗 [ Customer CHURN -power BI](https://github.com/Amia-Mohamed05/Customer-Churn)
+
+---
+ Health Tracking
+
+Excel/Power BI | Dashboard Design | Data Visualization
+
+Interactive health monitoring dashboard designed to track patient vitals, daily activity, and progress including heart rate, steps, sleep hours, and calories, alongside appointment scheduling. Tools: Power BI • Dashboard Design • Data Visualization
+
+🔗 [ Health Tracking -power BI](https://github.com/Amia-Mohamed05/Health-Tracking.git)
 
 ---
 ## 🛠️ Skills
