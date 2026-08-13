@@ -52,7 +52,7 @@ Analysis of hotel booking data to understand booking patterns,
 cancellations, customer behavior, and key business insights.
 Tools: Excel • Pivot Tables • Charts • Data Analysis
 
-🔗 [Hotel Booking](https://github.com/Amia-Mohamed05/Hotel-Booking-Analysis) 
+🔗 [Hotel Booking -Excel](https://github.com/Amia-Mohamed05/Hotel-Booking-Analysis) 
 
  📊 Sales Analysis
 
@@ -62,27 +62,16 @@ Interactive dashboard designed to analyze sales performance,
 products, regions, Shipping and key business KPIs.
 Tools: Power BI • DAX • Power Query
 
-🔗 [View Project](https://github.com/Amia-Mohamed05/Sales-Analysis.git)
+🔗 [Sales Analysis-Power BI](https://github.com/Amia-Mohamed05/Sales-Analysis.git)
 
-# 🎯 What I Do
 
-| Area | Skills |
-|------|--------|
-| 📊 Data Analysis | Excel • SQL • Python |
-| 📈 Visualization | Power BI • Tableau |
-| 🧹 Data Preparation | Power Query • Excel • Python |
-| 📐 Analytics | DAX • KPIs • Business Insights |
-| 📑 Reporting | Interactive Dashboards & Reports |
 
----
-
-# 📚 Currently Learning
-
-- Advanced SQL
-- Advanced Power BI & DAX
-- Python for Data Analysis
-- Data Storytelling
-- Business Intelligence
+ 📚Skills 
+| - Data Analysis | Excel • SQL • Python |
+| - Visualization | Power BI • Tableau |
+| - Data Preparation | Power Query • Excel • Python |
+| - Analytics | DAX • KPIs • Business Insights |
+| - Reporting | Interactive Dashboards & Reports |
 
 ---
 
