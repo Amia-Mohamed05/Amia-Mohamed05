@@ -2,13 +2,8 @@
 
 # Amira Mohammed 
 
-### Data Analyst
-
-*Power BI • SQL • Python • Excel • Tableau*
-
-Turning data into insights, dashboards, and better decisions.
-
-</div>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=FFD700&center=true&vCenter=true&width=800&lines=Aspiring+Data+Analyst+%F0%9F%93%8A;Data+Analysis+%26+Visualization+%F0%9F%93%88;Excel+%7C+Power+BI+%7C+SQL+%7C+Tableau+%7C+Python;Turning+Data+into+Meaningful+Insights+%F0%9F%92%A1" />
+</p>---
 
 ---
 
