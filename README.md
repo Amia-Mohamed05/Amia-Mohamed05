@@ -101,18 +101,19 @@ Tools: Power BI • DAX • Power Query • HTML/CSS
 <h2>📬 Contact Me</h2>
 
 <p>
-  <a href="https://www.linkedin.com/in/amira-mohamed-726370321">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <br>
   <a href="mailto:amira.mohamed08@gmail.com">
     <img src="https://img.shields.io/badge/Email-FFFFFF?style=flat-square&logo=gmail&logoColor=EA4335" alt="Email"/>
+  </a>
+  <br>
+  <a href="https://www.linkedin.com/in/amira-mohamed-726370321">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <br>
   <a href="https://github.com/Amia-Mohamed05">
     <img src="https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&center=true&vCenter=true&width=700&lines=🚀+Open+to+new+opportunities+and+exciting+data+projects." />
-</p>
+
+<h3 align="center">
+  <font color="#FFD700">🚀 Open to new opportunities & exciting data projects.</font>
+</h3>
