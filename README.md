@@ -98,25 +98,18 @@ Tools: Power BI • DAX • Power Query • HTML/CSS
 - **Reporting** — Interactive Dashboards • Reports
 
 ---
-## 📫 Contact Me
+<h2>📬 Contact Me</h2>
 
 <p>
+  <a href="https://www.linkedin.com/in/amira-mohamed-726370321">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <br>
+  <a href="mailto:amira.mohamed08@gmail.com">
+    <img src="https://img.shields.io/badge/Email-FFFFFF?style=flat-square&logo=gmail&logoColor=EA4335" alt="Email"/>
+  </a>
+  <br>
   <a href="https://github.com/Amia-Mohamed05">
-    <img src="https://img.icons8.com/color/48/github--v1.png" width="25"/>
-    GitHub
-  </a>
-</p>
-
-<p>
-  <a href="https://www.linkedin.com/in/amira-mohamed-726370321/">
-    <img src="https://img.icons8.com/color/48/linkedin.png" width="25"/>
-    LinkedIn
-  </a>
-</p>
-
-<p>
-  <a href="mailto:amira.mohamedali08@gmail.com">
-    <img src="https://img.icons8.com/color/48/gmail-new.png" width="25"/>
-    Email
+    <img src="https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
