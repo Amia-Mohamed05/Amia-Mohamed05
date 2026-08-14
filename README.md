@@ -63,7 +63,8 @@ Tools: Power BI • DAX • Power Query
 
 Power BI | DAX | Data Visualization
 
-Interactive dashboard designed to analyze customer churn behavior, contract types, payment methods, and service usage to identify key drivers of customer attrition. Tools: Power BI • DAX • Power Query
+Interactive dashboard designed to analyze customer churn behavior, contract types, payment methods, and service usage to identify key drivers of customer attrition. 
+Tools: Power BI • DAX • Power Query
 
 🔗 [ Customer CHURN -power BI](https://github.com/Amia-Mohamed05/Customer-Churn)
 
@@ -72,12 +73,13 @@ Interactive dashboard designed to analyze customer churn behavior, contract type
 
 Excel/Power BI | Dashboard Design | Data Visualization
 
-Interactive health monitoring dashboard designed to track patient vitals, daily activity, and progress including heart rate, steps, sleep hours, and calories, alongside appointment scheduling. Tools: Power BI • Dashboard Design • Data Visualization
+Interactive health monitoring dashboard designed to track patient vitals, daily activity, and progress including heart rate, steps, sleep hours, and calories, alongside appointment scheduling. 
+Tools: Power BI • Dashboard Design • Data Visualization
 
 🔗 [ Health Tracking -power BI](https://github.com/Amia-Mohamed05/vaccination.git)
 
 ---
-Vaccination Campaign Dashboard
+ 💉Vaccination Campaign Dashboard
 
 Power BI | DAX | Data Visualization
 
