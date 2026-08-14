@@ -114,6 +114,14 @@ Tools: Power BI • DAX • Power Query • HTML/CSS
   </a>
 </p>
 
-<h3 align="center">
-  <font color="#FFD700">🚀 Open to new opportunities & exciting data projects.</font>
-</h3>
+<div align="center">
+
+  <p style="
+    color: #FFD700;
+    font-size: 20px;
+    font-weight: 600;
+  ">
+    🚀 Open to new opportunities & exciting data projects.
+  </p>
+
+</div>
