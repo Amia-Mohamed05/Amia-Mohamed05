@@ -77,6 +77,16 @@ Interactive health monitoring dashboard designed to track patient vitals, daily 
 🔗 [ Health Tracking -power BI](https://github.com/Amia-Mohamed05/Health-Tracking.git)
 
 ---
+Vaccination Campaign Dashboard
+
+Power BI | DAX | Data Visualization
+
+Interactive dashboard designed to monitor a hospital vaccination campaign, tracking registered employees, external entities, vaccine stock, and real-time campaign progress using animated HTML/CSS visuals built with DAX.
+Tools: Power BI • DAX • Power Query • HTML/CSS
+
+🔗 [ Vaccination  -power BI](github.com/Amia-Mohamed05/vaccination/commit/b15659de75337f2130784b978f7e1b87c08862a0)
+
+---
 ## 🛠️ Skills
 
 - **Data Analysis** — Excel • SQL • Python
