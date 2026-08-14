@@ -74,7 +74,7 @@ Excel/Power BI | Dashboard Design | Data Visualization
 
 Interactive health monitoring dashboard designed to track patient vitals, daily activity, and progress including heart rate, steps, sleep hours, and calories, alongside appointment scheduling. Tools: Power BI • Dashboard Design • Data Visualization
 
-🔗 [ Health Tracking -power BI](https://github.com/Amia-Mohamed05/Health-Tracking.git)
+🔗 [ Health Tracking -power BI](https://github.com/Amia-Mohamed05/vaccination.git)
 
 ---
 Vaccination Campaign Dashboard
