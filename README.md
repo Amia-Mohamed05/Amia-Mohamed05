@@ -113,3 +113,6 @@ Tools: Power BI • DAX • Power Query • HTML/CSS
     <img src="https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&center=true&vCenter=true&width=700&lines=🚀+Open+to+new+opportunities+and+exciting+data+projects." />
+</p>
