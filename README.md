@@ -114,14 +114,6 @@ Tools: Power BI • DAX • Power Query • HTML/CSS
   </a>
 </p>
 
-<div align="center">
-
-  <p style="
-    color: #FFD700;
-    font-size: 20px;
-    font-weight: 600;
-  ">
-    🚀 Open to new opportunities & exciting data projects.
-  </p>
-
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1500&color=FFD700&center=true&vCenter=true&width=750&lines=🚀+Open+to+new+opportunities+%26+exciting+data+projects." />
+</p>
